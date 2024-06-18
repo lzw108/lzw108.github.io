@@ -19,8 +19,12 @@ Work experience
 ======
 * 04.2024-06.2024: Visiting Student
   * University of Melbourne
-  * Emotion Detection for Misinformation Detecion
+  * Emotion Detection for Misinformation Detection
   * Supervisor: Eduard Hovy
+ 
+* 03.2023-06.2023: NLP Algorithm Engineer
+  * Xinchenai
+  * ChatBot, LLMs
 
 * 08.2022-06.2023: Research Assistant
   * Westlake University
@@ -30,6 +34,6 @@ Work experience
   
 Teaching Assistant
 ======
-- COMP61021: Representation Learning 2023-24 1st Semester
-- COMP24112: Machine Learning 2023-24 2nd Semester
-- COMP13212: Data Science 2023-24 2nd Semeste
+- COMP61021: Representation Learning
+- COMP24112: Machine Learning
+- COMP13212: Data Science
