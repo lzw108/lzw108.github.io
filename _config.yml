@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiwei' Home Page"
+title                    : "Zhiwei Liu' Home Page"
 title_separator          : "-"
 name                     : &name "Zhiwei Liu"
 description              : &description "PhD candidate, University of Manchester."
