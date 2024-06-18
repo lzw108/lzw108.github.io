@@ -14,10 +14,11 @@ I have been a visiting student at [the University of Melbourne](https://www.unim
 
 Research interests
 ======
-My current research interests focus on Natural Language Processing and Large Language Models. Especially affective analysis(i.e. emotion detection and sentiment analysis), and misinformation detection (e.g. fake news, rumors, and conspiracy theories). 
+My current research interests focus on Natural Language Processing and Large Language Models. Especially affective analysis (i.e. emotion detection and sentiment analysis), and misinformation detection (e.g. fake news, rumors, and conspiracy theories). 
 
 News
 ======
+- **Jun 2024.** New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" at [arXiv](https://arxiv.org/abs/2406.11093).
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
 - **May 2024.** New preprint: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" at [arXiv](https://arxiv.org/abs/2403.17141).
 - **Mar 2024** New preprint: "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" at [arXiv](https://arxiv.org/abs/2403.06765).
@@ -35,6 +36,9 @@ SIGKDD2024
 
 **Journal Reviewer**
 
+**Organizer/Session Chair/Volunteer**
+
+[FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
 
 Awards and Achievements
 ------
