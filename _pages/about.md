@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. candidate at [The University of Manchester](https://www.manchester.ac.uk/) and the [NaCTeM](https://nactem.ac.uk/) group. I'm advised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). My PhD journey started in July 2023. I obtained my M.Sc. degree in Computer Science from [The University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), China.
+I'm a Ph.D. candidate at [The University of Manchester](https://www.manchester.ac.uk/) and the [NaCTeM](https://nactem.ac.uk/) group. I'm advised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). My PhD journey started in July 2023. I obtained my M.Sc. degree in Computer Science from [The University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), China.
 
-I have been a visiting student at [the University of Melbourne](https://www.unimelb.edu.au/) under the supervision of Prof. [Eduard Hovy](https://www.cs.cmu.edu/~hovy/) since April.
+<!-- I have been a visiting student at [the University of Melbourne](https://www.unimelb.edu.au/) under the supervision of Prof. [Eduard Hovy](https://www.cs.cmu.edu/~hovy/) since April.-->
 
 
 Research interests
@@ -18,6 +18,7 @@ My current research interests focus on Natural Language Processing and Large Lan
 
 News
 ======
+- **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI-PAIS 2024.
 - **Jun 2024.** New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" at [arXiv](https://arxiv.org/abs/2406.11093).
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
 - **May 2024.** New preprint: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" at [arXiv](https://arxiv.org/abs/2403.17141).
@@ -36,9 +37,13 @@ SIGKDD2024
 
 **Journal Reviewer**
 
+ICT express
+
 **Organizer/Session Chair/Volunteer**
 
 [FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
+
+[FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
 
 Awards and Achievements
 ------
