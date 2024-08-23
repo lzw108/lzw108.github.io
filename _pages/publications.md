@@ -11,6 +11,8 @@ You can also find my articles on my [google profile](https://scholar.google.com/
 
 Preprint
 ======
+- Qianqian Xie et al. "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications". [Download](https://arxiv.org/abs/2408.11878)
+
 - **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information." [Download](https://arxiv.org/abs/2406.11093)
 
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". [Download](https://arxiv.org/abs/2403.17141)
