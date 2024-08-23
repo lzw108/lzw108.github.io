@@ -18,6 +18,7 @@ My current research interests focus on Natural Language Processing and Large Lan
 
 News
 ======
+- **Aug 2024.** New preprint: "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications" at [arXiv](https://arxiv.org/abs/2408.11878).
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI-PAIS 2024.
 - **Jun 2024.** New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" at [arXiv](https://arxiv.org/abs/2406.11093).
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
@@ -44,6 +45,8 @@ ICT express
 [FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
 
 [FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
+
+[Financial Misinformation Detection (FMD) challenge](https://coling2025fmd.thefin.ai/)
 
 Awards and Achievements
 ------
