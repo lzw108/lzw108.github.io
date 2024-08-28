@@ -18,6 +18,7 @@ My current research interests focus on Natural Language Processing and Large Lan
 
 News
 ======
+- **Aug 2024.** New preprint: "Selective Preference Optimization via Token-Level Reward Function Estimation" at [arXiv](https://arxiv.org/abs/2408.13518).
 - **Aug 2024.** New preprint: "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications" at [arXiv](https://arxiv.org/abs/2408.11878).
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI-PAIS 2024.
 - **Jun 2024.** New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" at [arXiv](https://arxiv.org/abs/2406.11093).
@@ -34,7 +35,7 @@ Professional services
 
 **Program Committee/Reviewer**
 
-SIGKDD2024
+SIGKDD'24, 25
 
 **Journal Reviewer**
 
