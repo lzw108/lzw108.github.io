@@ -11,6 +11,8 @@ You can also find my articles on my [google profile](https://scholar.google.com/
 
 Preprint
 ======
+- Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". [Download](https://arxiv.org/abs/2406.11093)
+
 - Qianqian Xie et al. "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications". [Download](https://arxiv.org/abs/2408.11878)
 
 - **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information." [Download](https://arxiv.org/abs/2406.11093)
