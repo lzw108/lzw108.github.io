@@ -49,6 +49,12 @@ ICT express
 
 [Financial Misinformation Detection (FMD) challenge](https://coling2025fmd.thefin.ai/)
 
+Research Projects
+------
+- Emotion Detection and Misinformation Harms arising from Large Language Models. [link](https://www.socialsciences.manchester.ac.uk/dts/research/seedcorn-funding/projects-2023-24/)
+- ManchesterMelbourne-Toronto Research Project
+
+
 Awards and Achievements
 ------
 - Turing Scheme Funding for Study and Work Aboard
