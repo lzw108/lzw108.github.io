@@ -26,7 +26,6 @@ News
 - **Jun 2024.** New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" at [arXiv](https://arxiv.org/abs/2406.11093).
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
 - **May 2024.** New preprint: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" at [arXiv](https://arxiv.org/abs/2403.17141).
-- **Mar 2024** New preprint: "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" at [arXiv](https://arxiv.org/abs/2403.06765).
 - **Feb 2024** New preprint: "The FinBen: An Holistic Financial Benchmark for Large Language Models" at [arXiv](https://arxiv.org/abs/2402.12659).
 - **Feb 2024** Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
 - **Feb 2024** Obtained the Turing Scheme Funding to work with Eduard Hovy as a visiting student at the University of Melbourne.
