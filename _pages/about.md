@@ -25,8 +25,6 @@ News
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI-PAIS 2024.
 - **Jun 2024.** New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" at [arXiv](https://arxiv.org/abs/2406.11093).
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
-- **May 2024.** New preprint: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" at [arXiv](https://arxiv.org/abs/2403.17141).
-- **Feb 2024** New preprint: "The FinBen: An Holistic Financial Benchmark for Large Language Models" at [arXiv](https://arxiv.org/abs/2402.12659).
 - **Feb 2024** Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
 - **Feb 2024** Obtained the Turing Scheme Funding to work with Eduard Hovy as a visiting student at the University of Melbourne.
 
@@ -36,24 +34,25 @@ Professional services
 
 **Program Committee/Reviewer**
 
-SIGKDD'24, 25
+- SIGKDD'24, 25
+- COLING'25
 
 **Journal Reviewer**
 
-ICT express
+- ICT express
 
 **Organizer/Session Chair/Volunteer**
 
-[FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
+- [FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
 
-[FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
+- [FinNLP-FNP-LLMFinLegal @COLING 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
 
-[Financial Misinformation Detection (FMD) challenge](https://coling2025fmd.thefin.ai/)
+- [Financial Misinformation Detection (FMD) challenge @COLING 2025](https://coling2025fmd.thefin.ai/)
 
 Research Projects
 ------
 - Emotion Detection and Misinformation Harms arising from Large Language Models. [link](https://www.socialsciences.manchester.ac.uk/dts/research/seedcorn-funding/projects-2023-24/)
-- ManchesterMelbourne-Toronto Research Project
+- Manchester-Melbourne-Toronto Research Project
 
 
 Awards and Achievements
