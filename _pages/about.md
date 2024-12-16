@@ -40,7 +40,7 @@ Professional services
 **Journal Reviewer**
 
 - Information Processing & Management
-- ICT express
+- ICT Express
 - HELIYON
 
 **Organizer/Session Chair/Volunteer**
