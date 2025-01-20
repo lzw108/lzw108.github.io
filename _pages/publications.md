@@ -13,8 +13,6 @@ Preprint
 ======
 
 - **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information." [Download](https://arxiv.org/abs/2406.11093)
-
-- **Zhiwei Liu**, Xin Zhang, Kailai Yang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "FMDLlama: Financial Misinformation Detection based on Large Language Models." [Download](https://arxiv.org/abs/2409.16452)
   
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". [Download](https://arxiv.org/abs/2406.11093)
 
@@ -26,7 +24,9 @@ Conference Papers
 
 - **Zhiwei Liu**, Kailai Yang, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". In KDD 2024. [Download](https://arxiv.org/abs/2401.08508)
 
-- **Zhiwei Liu**, Boyang Liu, Paul Thompson, Kailai Yang, Sophia Ananiadou. "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model". In ECAI-PAIS 2024. [Download](https://arxiv.org/abs/2403.06765)
+- **Zhiwei Liu**, Boyang Liu, Paul Thompson, Kailai Yang, Sophia Ananiadou. "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model". In ECAI 2024. [Download](https://arxiv.org/abs/2403.06765)
+
+- **Zhiwei Liu**, Xin Zhang, Kailai Yang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "FMDLlama: Financial Misinformation Detection based on Large Language Models." In WWW 2025 [Download](https://arxiv.org/abs/2409.16452)
 
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In NeurlPS 2024. [Download](https://arxiv.org/abs/2403.17141)
 
