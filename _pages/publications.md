@@ -24,7 +24,7 @@ Conference Papers
 
 - **Zhiwei Liu**, Kailai Yang, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". In KDD 2024. [Download](https://arxiv.org/abs/2401.08508)
 
-- **Zhiwei Liu**, Boyang Liu, Paul Thompson, Kailai Yang, Sophia Ananiadou. "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model". In ECAI 2024. [Download](https://arxiv.org/abs/2403.06765)
+- **Zhiwei Liu**, Boyang Liu, Paul Thompson, Kailai Yang, Sophia Ananiadou. "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model". In ECAI 2024. [Download](https://ebooks.iospress.nl/doi/10.3233/FAIA241060)
 
 - **Zhiwei Liu**, Xin Zhang, Kailai Yang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "FMDLlama: Financial Misinformation Detection based on Large Language Models." In WWW 2025 [Download](https://arxiv.org/abs/2409.16452)
 
