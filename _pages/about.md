@@ -18,8 +18,8 @@ My current research interests focus on Natural Language Processing and Large Lan
 
 News
 ======
+- **Jan 2025.** Our paper: "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
-- **Sep 2024.** New preprint: "FMDLlama: Financial Misinformation Detection based on Large Language Models" at [arXiv](https://arxiv.org/abs/2409.16452).
 - **Aug 2024.** New preprint: "Selective Preference Optimization via Token-Level Reward Function Estimation" at [arXiv](https://arxiv.org/abs/2408.13518).
 - **Aug 2024.** New preprint: "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications" at [arXiv](https://arxiv.org/abs/2408.11878).
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI-PAIS 2024.
