@@ -22,7 +22,7 @@ News
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
 - **Aug 2024.** New preprint: "Selective Preference Optimization via Token-Level Reward Function Estimation" at [arXiv](https://arxiv.org/abs/2408.13518).
 - **Aug 2024.** New preprint: "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications" at [arXiv](https://arxiv.org/abs/2408.11878).
-- **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI-PAIS 2024.
+- **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI 2024.
 - **Jun 2024.** New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" at [arXiv](https://arxiv.org/abs/2406.11093).
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
 - **Feb 2024** Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
