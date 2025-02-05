@@ -18,6 +18,7 @@ My current research interests focus on Natural Language Processing and Large Lan
 
 News
 ======
+- **Feb 2025.** I’m co-organizing the [1st Workshop on Misinformation Detection in the Era of LLMs (MisD)](https://sites.google.com/view/misd-2025/), which will be held at ICWSM (June 23rd, 2025,  Copenhagen, Denmark)!
 - **Jan 2025.** Our paper: "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
 - **Jan 2025.** The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the [challenge](https://huggingface.co/spaces/TheFinAI/FMD2025).
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
@@ -45,6 +46,7 @@ Professional services
 - HELIYON
 
 **Organizer/Session Chair/Volunteer**
+- [MisD: Workshop on Misinformation Detection in the Era of LLMs](https://sites.google.com/view/misd-2025/)
 
 - [FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
 
