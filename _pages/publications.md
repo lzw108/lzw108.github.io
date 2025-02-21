@@ -11,6 +11,7 @@ You can also find my articles on my [google profile](https://scholar.google.com/
 
 Preprint
 ======
+- **Zhiwei Liu**, Kailai Yang, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments." [Download](https://arxiv.org/abs/2502.14383)
 
 - **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information." [Download](https://arxiv.org/abs/2406.11093)
   
