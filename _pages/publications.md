@@ -17,6 +17,8 @@ Preprint
   
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". [Download](https://arxiv.org/abs/2406.11093)
 
+- Beiyu Xu, **Zhiwei Liu**, Sophia Ananiadou. "Disentangled VAD Representations via a Variational Framework for Political Stance Detection". [Download](https://arxiv.org/abs/2406.11093)
+
 - Qianqian Xie et al. "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications". [Download](https://arxiv.org/abs/2408.11878)
 
 
