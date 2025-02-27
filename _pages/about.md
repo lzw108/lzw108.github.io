@@ -19,6 +19,7 @@ My current research interests focus on Natural Language Processing and Large Lan
 News
 ======
 - **Feb 2025.** Invited as a speaker at [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025).
+- **Feb 2025.** New preprint: "Disentangled VAD Representations via a Variational Framework for Political Stance Detection" at [arXiv](https://arxiv.org/abs/2502.19276).
 - **Feb 2025.** New preprint: "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments" at [arXiv](https://arxiv.org/abs/2502.14383).
 - **Feb 2025.** I’m co-organizing the [1st Workshop on Misinformation Detection in the Era of LLMs (MisD)](https://sites.google.com/view/misd-2025/), which will be held at ICWSM (June 23rd, 2025,  Copenhagen, Denmark)!
 - **Jan 2025.** Our paper: "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
