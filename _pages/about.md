@@ -46,6 +46,7 @@ Professional services
 
 **Journal Reviewer**
 
+- IEEE Transactions on Affective Computing
 - Information Processing & Management
 - ICT Express
 - HELIYON
