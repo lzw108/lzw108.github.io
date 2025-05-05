@@ -33,6 +33,8 @@ Conference Papers
 
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In NeurlPS 2024. [Download](https://arxiv.org/abs/2403.17141)
 
+- **Zhiwei Liu**, Keyi Wang, Zhuo Bao et al. "FinNLP-FNP-LLMFinLegal-2025 Shared Task: Financial Misinformation Detection Challenge Task." In Proceedings of the Joint Workshop of the 9th Financial Technology and Natural Language Processing (FinNLP), the 6th Financial Narrative Processing (FNP), and the 1st Workshop on Large Language Models for Finance and Legal (LLMFinLegal), pp. 271-276. 2025. [Download](https://aclanthology.org/2025.finnlp-1.30/)
+
 - Qianqian Xie et al. "The FinBen: An Holistic Financial Benchmark for Large Language Models". In NeurlPS 2024 Dataset track. [Download](https://arxiv.org/abs/2402.12659)
 
 
