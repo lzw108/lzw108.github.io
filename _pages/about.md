@@ -39,10 +39,12 @@ Professional services
 
 **Program Committee/Reviewer**
 
+- NeurIPS'25
+- ARR'25
 - SIGKDD'24, 25
 - COLING'25
 - WWW'25
-- ARR'25
+
 
 **Journal Reviewer**
 
