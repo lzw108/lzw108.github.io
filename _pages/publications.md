@@ -12,8 +12,6 @@ You can also find my articles on my [google profile](https://scholar.google.com/
 Preprint
 ======
 - **Zhiwei Liu**, Kailai Yang, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments." [Download](https://arxiv.org/abs/2502.14383)
-
-- **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information." [Download](https://arxiv.org/abs/2406.11093)
   
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". [Download](https://arxiv.org/abs/2406.11093)
 
@@ -24,6 +22,8 @@ Preprint
 
 Conference Papers
 ======
+
+- **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information". In ACL 2025 (Main) [Download](https://arxiv.org/abs/2406.11093)
 
 - **Zhiwei Liu**, Kailai Yang, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". In KDD 2024. [Download](https://arxiv.org/abs/2401.08508)
 
