@@ -12,6 +12,8 @@ You can also find my articles on my [google profile](https://scholar.google.com/
 Preprint
 ======
 - **Zhiwei Liu**, Kailai Yang, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments." [Download](https://arxiv.org/abs/2502.14383)
+
+- **Zhiwei Liu**, Paul Thompson, Jiaqi Rong, Sophia Ananiadou. "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories." [Download](https://arxiv.org/abs/2505.14917)
   
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". [Download](https://arxiv.org/abs/2406.11093)
 
