@@ -19,6 +19,7 @@ My current research interests focus on Natural Language Processing and Large Lan
 News
 ======
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
+- **May 2025.** New preprint: "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" at [arXiv](https://arxiv.org/abs/2505.14917).
 - **Feb 2025.** Invited as a speaker at [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025).
 - **Feb 2025.** New preprint: "Disentangled VAD Representations via a Variational Framework for Political Stance Detection" at [arXiv](https://arxiv.org/abs/2502.19276).
 - **Feb 2025.** New preprint: "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments" at [arXiv](https://arxiv.org/abs/2502.14383).
