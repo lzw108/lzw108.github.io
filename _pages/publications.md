@@ -7,10 +7,12 @@ author_profile: true
 
 
 
-You can also find my articles on my [google profile](https://scholar.google.com/citations?user=gfqqbIwAAAAJ&hl=en).
+You can also find my articles on my [Google profile](https://scholar.google.com/citations?user=gfqqbIwAAAAJ&hl=en).
 
 Preprint
 ======
+- **Zhiwei Liu**, Lingfei Qian, Qianqian Xie, Jimin Huang, Kailai Yang, Sophia Ananiadou. "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" [Download](https://arxiv.org/abs/2505.24423)
+
 - **Zhiwei Liu**, Kailai Yang, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments." [Download](https://arxiv.org/abs/2502.14383)
 
 - **Zhiwei Liu**, Paul Thompson, Jiaqi Rong, Sophia Ananiadou. "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories." [Download](https://arxiv.org/abs/2505.14917)
