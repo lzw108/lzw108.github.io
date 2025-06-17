@@ -33,9 +33,11 @@ Conference Papers
 
 - **Zhiwei Liu**, Xin Zhang, Kailai Yang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "FMDLlama: Financial Misinformation Detection based on Large Language Models." In WWW 2025 [Download](https://arxiv.org/abs/2409.16452)
 
-- Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In NeurlPS 2024. [Download](https://arxiv.org/abs/2403.17141)
+- **Zhiwei Liu**, Christine de Kock, Peter Knight, Eduard Hovy, Sophia Ananiadou. "The 1st Workshop on Misinformation Detection in the Era of LLMs (MisD 2025)" In Workshop Proceedings of the 19th International AAAI Conference on Web and Social Media (ICWSM 2025). [Download](https://workshop-proceedings.icwsm.org/abstract.php?id=2025_22)
 
 - **Zhiwei Liu**, Keyi Wang, Zhuo Bao et al. "FinNLP-FNP-LLMFinLegal-2025 Shared Task: Financial Misinformation Detection Challenge Task." In Proceedings of the Joint Workshop of the 9th Financial Technology and Natural Language Processing (FinNLP), the 6th Financial Narrative Processing (FNP), and the 1st Workshop on Large Language Models for Finance and Legal (LLMFinLegal), pp. 271-276. 2025. [Download](https://aclanthology.org/2025.finnlp-1.30/)
+
+- Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In NeurlPS 2024. [Download](https://arxiv.org/abs/2403.17141)
 
 - Qianqian Xie et al. "The FinBen: An Holistic Financial Benchmark for Large Language Models". In NeurlPS 2024 Dataset track. [Download](https://arxiv.org/abs/2402.12659)
 
