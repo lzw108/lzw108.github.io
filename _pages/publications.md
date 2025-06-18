@@ -21,6 +21,8 @@ Preprint
 
 - Qianqian Xie et al. "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications". [Download](https://arxiv.org/abs/2408.11878)
 
+- Xueqing Peng et al. "MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation". [Download](https://arxiv.org/abs/2506.14028)
+
 
 Conference Papers
 ======
