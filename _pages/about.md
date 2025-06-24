@@ -22,13 +22,13 @@ In case of interest in collaboration or joint work, please feel free to reach ou
 
 News
 ======
+- **May 2025.** The 1st Workshop on Misinformation Detection in the Era of LLMs (MisD2025) has successfully wrapped up in Copenhagen. Learn more about the [workshop](https://sites.google.com/view/ellis-mis2025).
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
 - **May 2025.** New preprint: "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" at [arXiv](https://arxiv.org/abs/2505.14917).
 - **Feb 2025.** Invited as a speaker at [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025).
 - **Feb 2025.** New preprint: "Disentangled VAD Representations via a Variational Framework for Political Stance Detection" at [arXiv](https://arxiv.org/abs/2502.19276).
 - **Feb 2025.** New preprint: "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments" at [arXiv](https://arxiv.org/abs/2502.14383).
-- **Feb 2025.** I’m co-organizing the [1st Workshop on Misinformation Detection in the Era of LLMs (MisD)](https://sites.google.com/view/misd-2025/), which will be held at ICWSM (June 23rd, 2025,  Copenhagen, Denmark)!
 - **Jan 2025.** Our paper "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
 - **Jan 2025.** The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the [challenge](https://huggingface.co/spaces/TheFinAI/FMD2025).
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
