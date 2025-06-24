@@ -22,7 +22,7 @@ In case of interest in collaboration or joint work, please feel free to reach ou
 
 News
 ======
-- **May 2025.** The 1st Workshop on Misinformation Detection in the Era of LLMs (MisD2025) has successfully wrapped up in Copenhagen. Learn more about the [workshop](https://sites.google.com/view/ellis-mis2025).
+- **May 2025.** The 1st Workshop on Misinformation Detection in the Era of LLMs (MisD2025) has successfully wrapped up in Copenhagen. Learn more about the [workshop](https://sites.google.com/view/misd-2025/).
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
 - **May 2025.** New preprint: "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" at [arXiv](https://arxiv.org/abs/2505.14917).
