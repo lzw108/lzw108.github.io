@@ -11,7 +11,8 @@ I'm a Ph.D. candidate at [The University of Manchester](https://www.manchester.a
 
 <!-- I have been a visiting student at [the University of Melbourne](https://www.unimelb.edu.au/) under the supervision of Prof. [Eduard Hovy](https://www.cs.cmu.edu/~hovy/) since April.-->
 
-<font color=Red>**I am expected to graduate in Fall 2026 and am looking for full-time positions in AI, in either academia or industry. Please feel free to reach out if my background aligns with your needs.**</font>
+<font color=Red>I am expected to graduate in Fall 2026 and am looking for full-time positions in AI, in either academia or industry. Please feel free to reach out if my background aligns with your needs.</font>
+
 
 Research interests
 ======
