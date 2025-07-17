@@ -16,7 +16,7 @@ I'm a Ph.D. candidate at [The University of Manchester](https://www.manchester.a
 
 Research interests
 ======
-My current research interests focus on Natural Language Processing and Large Language Models. Especially affective analysis (i.e. emotion detection and sentiment analysis), and misinformation detection (e.g. fake news, rumors, and conspiracy theories). 
+My current research interests focus on Natural Language Processing and Large Language Models. Especially affective analysis (i.e. emotion detection and sentiment analysis), misinformation detection (e.g. fake news, rumors, and conspiracy theories), and AI Safety. 
 
 In case of interest in collaboration or joint work, please feel free to reach out via zhiwei.liu@manchester.ac.uk.
 
