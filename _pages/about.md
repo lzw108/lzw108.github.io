@@ -69,17 +69,27 @@ Professional services
 
 Research Projects
 ------
+
+- Manchester-Melbourne-Toronto Research Project (Team Lead under Advisor) Jan 2024 - Feb 2025
+
+  Explain the strong links between emotions and misinformation and develop LLM-based methods for various misinformation detection.
+
+  Related outputs: [RAEmoLLM](https://arxiv.org/abs/2406.11093), [Rumor Detection](https://arxiv.org/abs/2502.14383)
+
+  
 - Misinformation Digital Trust and Democracy II (Team Lead under Advisor) Jan 2025 - Jul 2025
 
   Improve the robustness of LLMs for sentiment-transformed misinformation attacks.
+
+  Related outputs: [ConspEmoLLM-V2](https://arxiv.org/abs/2505.14917)
   
 - [Misinformation Digital Trust and Democracy I](https://www.socialsciences.manchester.ac.uk/dts/research/seedcorn-funding/projects-2023-24/) (Team Lead under Advisor) Jan 2024 - Jul 2024
 
   The main task is training LLMs for conspiracy theory detection using affective information
 
-- Manchester-Melbourne-Toronto Research Project (Team Lead under Advisor) Jan 2024 - Feb 2025
+  Related outputs: [ConspEmoLLM](https://ebooks.iospress.nl/doi/10.3233/FAIA241060)
 
-  Explain the strong links between emotions and misinformation and develop LLM-based methods for various misinformation detection.
+
 
 
 Awards and Achievements
