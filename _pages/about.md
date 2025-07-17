@@ -32,7 +32,6 @@ News
 - **Jan 2025.** Our paper "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
 - **Jan 2025.** The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the [challenge](https://huggingface.co/spaces/TheFinAI/FMD2025).
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
-- **Aug 2024.** New preprint: "Selective Preference Optimization via Token-Level Reward Function Estimation" at [arXiv](https://arxiv.org/abs/2408.13518).
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI 2024.
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
 - **Feb 2024** Our paper "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
