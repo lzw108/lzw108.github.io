@@ -41,11 +41,11 @@ News
 Research Projects
 ------
 
-- Manchester-Melbourne-Toronto Research Project (Team Lead under Advisor) Jan 2024 - Feb 2025
+- Manchester-Melbourne-Toronto Research Project (Team Lead under Advisor) Dec 2023 - Feb 2025
 
   Explain the strong links between emotions and misinformation and develop LLM-based methods for various misinformation detection.
 
-  Related outputs: [RAEmoLLM](https://arxiv.org/abs/2406.11093), [Rumor Detection](https://arxiv.org/abs/2502.14383)
+  Related outputs: [RAEmoLLM](https://arxiv.org/abs/2406.11093), [Rumor Detection](https://arxiv.org/abs/2502.14383), [A Survey](https://www.sciencedirect.com/science/article/pii/S1566253524000782)
 
   
 - Misinformation Digital Trust and Democracy II (Team Lead under Advisor) Jan 2025 - Jul 2025
