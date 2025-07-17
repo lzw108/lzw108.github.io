@@ -72,6 +72,12 @@ Professional services
 
 - [FinNLP-FNP-LLMFinLegal @COLING 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
 
+**Talks**
+- [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025)
+- [Digital Trust and Society (CDTS) Seed Corn Showcase 2023-24](https://events.manchester.ac.uk/event/event:qwm-m22310rp-ndwaxw/centre-for-digital-trust-and-society-seed-corn-showcase-202324)
+- NVIDIA Workshop
+
+
 **Program Committee/Reviewer**
 
 - NeurIPS'25
