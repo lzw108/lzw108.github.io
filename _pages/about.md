@@ -38,35 +38,6 @@ News
 - **Feb 2024** Obtained the Turing Scheme Funding to work with Eduard Hovy as a visiting student at the University of Melbourne.
 
 
-Professional services
-======
-
-**Program Committee/Reviewer**
-
-- NeurIPS'25
-- ARR'25
-- SIGKDD'24, 25
-- COLING'25
-- WWW'25
-
-
-**Journal Reviewer**
-
-- IEEE Transactions on Affective Computing
-- Information Processing & Management
-- ICT Express
-- HELIYON
-
-**Organizer**
-- [MisD: Workshop on Misinformation Detection in the Era of LLMs @ICWSM2025](https://sites.google.com/view/misd-2025/) (Leader)
-
-- [Financial Misinformation Detection (FMD) challenge @COLING2025](https://coling2025fmd.thefin.ai/) (Leader)
-
-- [FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
-
-- [FinNLP-FNP-LLMFinLegal @COLING 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
-
-
 Research Projects
 ------
 
@@ -87,7 +58,40 @@ Research Projects
 
   The main task is training LLMs for conspiracy theory detection using affective information
 
-  Related outputs: [ConspEmoLLM](https://ebooks.iospress.nl/doi/10.3233/FAIA241060)
+  Related outputs: [EmoLLMs](https://dl.acm.org/doi/10.1145/3637528.3671552), [ConspEmoLLM](https://ebooks.iospress.nl/doi/10.3233/FAIA241060)
+
+Professional services
+======
+
+**Organizer**
+- [MisD: Workshop on Misinformation Detection in the Era of LLMs @ICWSM2025](https://sites.google.com/view/misd-2025/) (Leader)
+
+- [Financial Misinformation Detection (FMD) challenge @COLING2025](https://coling2025fmd.thefin.ai/) (Leader)
+
+- [FinNLP-AgentScen@IJCAI-2024](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm)
+
+- [FinNLP-FNP-LLMFinLegal @COLING 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
+
+**Program Committee/Reviewer**
+
+- NeurIPS'25
+- ARR'25
+- SIGKDD'24, 25
+- COLING'25
+- WWW'25
+
+
+**Journal Reviewer**
+
+- IEEE Transactions on Affective Computing
+- Information Processing & Management
+- ICT Express
+- HELIYON
+
+
+
+
+
 
 
 
