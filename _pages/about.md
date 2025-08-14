@@ -16,7 +16,7 @@ I'm a Ph.D. candidate at [The University of Manchester](https://www.manchester.a
 
 Research interests
 ======
-My current research interests focus on Natural Language Processing and Large Language Models. Especially affective analysis (i.e. emotion detection and sentiment analysis), misinformation detection (e.g. fake news, rumors, and conspiracy theories), and AI Safety. 
+My current research interests focus on Natural Language Processing and Large Language Models. Especially post-training, reinforcement learning, affective analysis, misinformation detection, and AI Safety. 
 
 In case of interest in collaboration or joint work, please feel free to reach out via zhiweiliu0810@gmail.com.
 
@@ -24,13 +24,11 @@ In case of interest in collaboration or joint work, please feel free to reach ou
 News
 ======
 - **July 2025.** Our paper "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" has been accepted by ECAI 2025 [Download](https://arxiv.org/abs/2505.14917).
-- **May 2025.** The 1st Workshop on Misinformation Detection in the Era of LLMs (MisD2025) has successfully wrapped up in Copenhagen. Learn more about the [workshop](https://sites.google.com/view/misd-2025/).
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
 - **Feb 2025.** Invited as a speaker at [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025).
 - **Feb 2025.** New preprint: "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments" at [arXiv](https://arxiv.org/abs/2502.14383).
 - **Jan 2025.** Our paper "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
-- **Jan 2025.** The Financial Misinformation Detection Challenge has successfully wrapped up at COLING 2025. Learn more about the [challenge](https://huggingface.co/spaces/TheFinAI/FMD2025).
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI 2024.
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
