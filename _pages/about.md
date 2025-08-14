@@ -23,7 +23,8 @@ In case of interest in collaboration or joint work, please feel free to reach ou
 
 News
 ======
-- **July 2025.** Our paper "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" has been accepted by ECAI 2025 [Download](https://arxiv.org/abs/2505.14917).
+- **Aug 2025.** Obtained a Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/))
+- **Jul 2025.** Our paper "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" has been accepted by ECAI 2025 [Download](https://arxiv.org/abs/2505.14917).
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
 - **Feb 2025.** Invited as a speaker at [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025).
@@ -83,6 +84,7 @@ Professional services
 - SIGKDD'24, 25
 - COLING'25
 - WWW'25
+- AAAI'26
 
 
 **Journal Reviewer**
@@ -102,5 +104,6 @@ Professional services
 
 Awards and Achievements
 ------
-- Turing Scheme Funding for Study and Work Aboard
+- Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/))
+- Turing Scheme Funding for Study and Work Abroad
 - Scholar Award from the Department of Computer Science at the University of Manchester (072023-122026)
