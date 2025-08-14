@@ -23,7 +23,7 @@ In case of interest in collaboration or joint work, please feel free to reach ou
 
 News
 ======
-- **Aug 2025.** Obtained a Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/))
+- **Aug 2025.** Awarded a Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/))
 - **Jul 2025.** Our paper "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" has been accepted by ECAI 2025 [Download](https://arxiv.org/abs/2505.14917).
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
@@ -34,7 +34,7 @@ News
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI 2024.
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
 - **Feb 2024** Our paper "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
-- **Feb 2024** Obtained the Turing Scheme Funding to work with Eduard Hovy as a visiting student at the University of Melbourne.
+- **Feb 2024** Awarded the Turing Scheme Funding to work with Eduard Hovy as a visiting student at the University of Melbourne.
 
 
 Research Projects
