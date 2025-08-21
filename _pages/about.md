@@ -23,6 +23,7 @@ In case of interest in collaboration or joint work, please feel free to reach ou
 
 News
 ======
+- **Aug 2025.** Our paper "Selective Preference Optimization via Token-Level Reward Function Estimation" has been accepted by EMNLP 2025.
 - **Aug 2025.** Awarded a Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/))
 - **Jul 2025.** Our paper "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" has been accepted by ECAI 2025 [Download](https://arxiv.org/abs/2505.14917).
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
