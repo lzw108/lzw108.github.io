@@ -92,6 +92,8 @@ Professional services
 
 - IEEE Transactions on Affective Computing
 - Information Processing & Management
+- Neurocomputing
+- Applied Soft Computing Journal
 - ICT Express
 - HELIYON
 
