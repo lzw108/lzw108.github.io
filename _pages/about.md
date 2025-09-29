@@ -84,7 +84,7 @@ Professional services
 - ARR'25
 - SIGKDD'24, 25
 - COLING'25
-- WWW'25
+- WWW'25, 26
 - AAAI'26
 
 
@@ -94,6 +94,7 @@ Professional services
 - Information Processing & Management
 - Neurocomputing
 - Applied Soft Computing Journal
+- International Journal of Information Management Data Insights
 - ICT Express
 - HELIYON
 
