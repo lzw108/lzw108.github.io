@@ -30,6 +30,7 @@ News
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
 - **Feb 2025.** Invited as a speaker at [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025).
+
 <!-- - **Feb 2025.** New preprint: "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments" at [arXiv](https://arxiv.org/abs/2502.14383).
 - **Jan 2025.** Our paper "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
