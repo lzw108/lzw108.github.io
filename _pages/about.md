@@ -23,19 +23,20 @@ In case of interest in collaboration or joint work, please feel free to reach ou
 
 News
 ======
+- **Sep 2025.** Invited to serve as the LREC 2026 Area Chair.
 - **Aug 2025.** Our paper "Selective Preference Optimization via Token-Level Reward Function Estimation" has been accepted by EMNLP 2025.
 - **Aug 2025.** Awarded a Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/))
 - **Jul 2025.** Our paper "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories" has been accepted by ECAI 2025 [Download](https://arxiv.org/abs/2505.14917).
 - **May 2025.** New preprint: "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" at [arXiv](https://arxiv.org/abs/2505.24423).
 - **May 2025.** Our paper "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information" has been accepted by ACL 2025 (Main).
 - **Feb 2025.** Invited as a speaker at [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025).
-- **Feb 2025.** New preprint: "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments" at [arXiv](https://arxiv.org/abs/2502.14383).
+<!-- - **Feb 2025.** New preprint: "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments" at [arXiv](https://arxiv.org/abs/2502.14383).
 - **Jan 2025.** Our paper "FMDLlama: Financial Misinformation Detection based on Large Language Models" has been accepted by WWW 2025 as a short paper.
 - **Sep 2024.** Our paper "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurIPS 2024.
 - **Jul 2024.** Our paper "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model" has been accepted by ECAI 2024.
 - **May 2024.** Our paper "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" has been accepted by KDD 2024.
 - **Feb 2024** Our paper "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
-- **Feb 2024** Awarded the Turing Scheme Funding to work with Eduard Hovy as a visiting student at the University of Melbourne.
+- **Feb 2024** Awarded the Turing Scheme Funding to work with Eduard Hovy as a visiting student at the University of Melbourne. -->
 
 
 Research Projects
@@ -72,11 +73,14 @@ Professional services
 
 - [FinNLP-FNP-LLMFinLegal @COLING 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home)
 
-**Talks**
+**Speakers**
 - [ELLIS Workshop on Misinformation Detection](https://sites.google.com/view/ellis-mis2025)
 - [Digital Trust and Society (CDTS) Seed Corn Showcase 2023-24](https://events.manchester.ac.uk/event/event:qwm-m22310rp-ndwaxw/centre-for-digital-trust-and-society-seed-corn-showcase-202324)
 - NVIDIA Workshop
 
+**Area Chair**
+
+- LREC'26
 
 **Program Committee/Reviewer**
 
