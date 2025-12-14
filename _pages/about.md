@@ -97,6 +97,7 @@ Professional services
 
 - IEEE Transactions on Affective Computing
 - Information Processing & Management
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
 - Neurocomputing
 - Applied Soft Computing Journal
 - International Journal of Information Management Data Insights
