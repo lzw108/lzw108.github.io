@@ -18,7 +18,7 @@ Research interests
 ======
 My current research interests focus on Natural Language Processing and Large Language Models. Especially post-training, reinforcement learning, affective analysis, misinformation detection, and AI Safety. 
 
-In case of interest in collaboration or joint work, please feel free to reach out via zhiweiliu0810@gmail.com.
+If you like teamwork and are interested in finance, misinformation detection, reasoning, or reinforcement learning, please feel free to reach out via zhiweiliu0810@gmail.com.
 
 
 News
