@@ -16,9 +16,9 @@ I'm a Ph.D. candidate at [The University of Manchester](https://www.manchester.a
 
 Research interests
 ======
-My current research interests focus on Natural Language Processing and Large Language Models. Especially post-training, reinforcement learning, affective analysis, misinformation detection, and AI Safety. 
+My current research interests focus on Natural Language Processing and Large Language Models. Especially post-training, reinforcement learning, affective analysis, misinformation detection, Finance, and MultiAgents. 
 
-If you like teamwork and are interested in finance, misinformation detection, reasoning, or reinforcement learning, please feel free to reach out via zhiweiliu0810@gmail.com.
+If you like teamwork and are interested in finance, misinformation detection, reasoning, agent,  or reinforcement learning, please feel free to reach out via zhiweiliu0810@gmail.com.
 
 
 News
