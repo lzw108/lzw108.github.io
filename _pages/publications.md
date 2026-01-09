@@ -19,7 +19,7 @@ Preprint
 
 - **Zhiwei Liu**, Paul Thompson, Jiaqi Rong, Baojie Qu, Runteng Guo, Min Peng, Qianqian Xie, Sophia Ananiadou. "MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News" [Download](https://arxiv.org/abs/2601.04857)
 
-- Yuechen Jiang, **Zhiwei Liu**(Corresponding author), Yupeng Cao, et al. "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" [Download](https://arxiv.org/abs/2601.04160)
+- Yuechen Jiang, **Zhiwei Liu** (Corresponding author), Yupeng Cao, et al. "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" [Download](https://arxiv.org/abs/2601.04160)
 
 - **Zhiwei Liu**, Kailai Yang, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments." [Download](https://arxiv.org/abs/2502.14383)
 
