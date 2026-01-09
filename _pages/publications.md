@@ -11,7 +11,15 @@ You can also find my articles on my [Google profile](https://scholar.google.com/
 
 Preprint
 ======
-- **Zhiwei Liu**, Lingfei Qian, Qianqian Xie, Jimin Huang, Kailai Yang, Sophia Ananiadou. "MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs" [Download](https://arxiv.org/abs/2505.24423)
+
+- **Zhiwei Liu**, Yupeng Cao, Yuechen Jiang, et al. "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" [Download]()
+
+- **Zhiwei Liu**, Runteng Guo, Baojie Qu, Yuechen Jiang, Min Peng, Qianqian Xie, Sophia Ananiadou. "RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection
+" [Download](https://arxiv.org/abs/2601.04853)
+
+- **Zhiwei Liu**, Paul Thompson, Jiaqi Rong, Baojie Qu, Runteng Guo, Min Peng, Qianqian Xie, Sophia Ananiadou. "MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News" [Download](https://arxiv.org/abs/2601.04857)
+
+- Yuechen Jiang, **Zhiwei Liu**(Corresponding author), Yupeng Cao, et al. "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" [Download](https://arxiv.org/abs/2601.04160)
 
 - **Zhiwei Liu**, Kailai Yang, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments." [Download](https://arxiv.org/abs/2502.14383)
 
