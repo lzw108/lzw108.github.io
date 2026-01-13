@@ -12,7 +12,7 @@ You can also find my articles on my [Google profile](https://scholar.google.com/
 Preprint
 ======
 
-- **Zhiwei Liu**, Yupeng Cao, Yuechen Jiang, et al. "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" [Download]()
+- **Zhiwei Liu**, Yupeng Cao, Yuechen Jiang, et al. "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" [Download](https://arxiv.org/abs/2601.05403)
 
 - **Zhiwei Liu**, Runteng Guo, Baojie Qu, Yuechen Jiang, Min Peng, Qianqian Xie, Sophia Ananiadou. "RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection
 " [Download](https://arxiv.org/abs/2601.04853)
