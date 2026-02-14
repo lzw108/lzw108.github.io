@@ -23,6 +23,7 @@ If you like teamwork and are interested in finance, misinformation detection, re
 
 News
 ======
+- **Feb 2025.** I’m co-organizing [The 2nd Workshop on Misinformation Detection in the Era of LLMs (MisD)](https://sites.google.com/view/misd-2026/), which will be held at ICWSM (May 26, 2026,  Los Angeles, CA)!
 - **Jan 2026.** New preprints: four papers related to misinformation detection are now available online ([MFMDScen](https://arxiv.org/abs/2601.05403), [RFCBENCH](https://arxiv.org/abs/2601.04160), [RAAR](https://arxiv.org/abs/2601.04853), [MisSpans](https://arxiv.org/abs/2601.04857)).
 - **Sep 2025.** Invited to serve as the LREC 2026 Area Chair.
 - **Aug 2025.** Our paper "Selective Preference Optimization via Token-Level Reward Function Estimation" has been accepted by EMNLP 2025.
