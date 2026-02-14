@@ -89,7 +89,7 @@ Professional services
 
 - NeurIPS'25
 - ARR'25
-- SIGKDD'24, 25
+- SIGKDD'24, 25, 26
 - COLING'25
 - WWW'25, 26
 - AAAI'26
