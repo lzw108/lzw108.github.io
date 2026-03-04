@@ -110,12 +110,9 @@ Professional services
 
 
 
-
-
-
-
 Awards and Achievements
 ------
-- Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/))
-- Turing Scheme Funding for Study and Work Abroad
+- RISING STAR AWARD from The FinAI. 2026
+- Student Grant from The Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB](https://aisb.org.uk/)). 2025
+- Turing Scheme Funding for Study and Work Abroad. 2024
 - Scholar Award from the Department of Computer Science at the University of Manchester (072023-122026)
