@@ -12,27 +12,24 @@ You can also find my articles on my [Google profile](https://scholar.google.com/
 Preprint
 ======
 
-- **Zhiwei Liu**, Yupeng Cao, Yuechen Jiang, et al. "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" [Download](https://arxiv.org/abs/2601.05403)
-
 - **Zhiwei Liu**, Runteng Guo, Baojie Qu, Yuechen Jiang, Min Peng, Qianqian Xie, Sophia Ananiadou. "RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection
 " [Download](https://arxiv.org/abs/2601.04853)
 
 - **Zhiwei Liu**, Paul Thompson, Jiaqi Rong, Baojie Qu, Runteng Guo, Min Peng, Qianqian Xie, Sophia Ananiadou. "MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News" [Download](https://arxiv.org/abs/2601.04857)
-
-- Yuechen Jiang, **Zhiwei Liu** (Corresponding author), Yupeng Cao, et al. "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection" [Download](https://arxiv.org/abs/2601.04160)
 
 - **Zhiwei Liu**, Kailai Yang, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments." [Download](https://arxiv.org/abs/2502.14383)
 
 
 - Qianqian Xie et al. "Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications". [Download](https://arxiv.org/abs/2408.11878)
 
-- Xueqing Peng et al. "MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation". [Download](https://arxiv.org/abs/2506.14028)
 
 
 Conference Papers
 ======
 
-- **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information". In ACL 2025 (Main) [Download](https://arxiv.org/abs/2406.11093)
+- **Zhiwei Liu**, Yupeng Cao, Yuechen Jiang, et al. "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection" In ACL 2026 Findings [Download](https://arxiv.org/abs/2601.05403)
+
+- **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information". In ACL 2025 [Download](https://arxiv.org/abs/2406.11093)
 
 - **Zhiwei Liu**, Xin Zhang, Kailai Yang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "FMDLlama: Financial Misinformation Detection based on Large Language Models." In WWW 2025 [Download](https://arxiv.org/abs/2409.16452)
 
@@ -46,11 +43,17 @@ Conference Papers
 
 - **Zhiwei Liu**, Keyi Wang, Zhuo Bao et al. "FinNLP-FNP-LLMFinLegal-2025 Shared Task: Financial Misinformation Detection Challenge Task." In Proceedings of the Joint Workshop of the 9th Financial Technology and Natural Language Processing (FinNLP), the 6th Financial Narrative Processing (FNP), and the 1st Workshop on Large Language Models for Finance and Legal (LLMFinLegal), pp. 271-276. 2025. [Download](https://aclanthology.org/2025.finnlp-1.30/)
 
+- Yuechen Jiang, **Zhiwei Liu** (Corresponding author), Yupeng Cao, et al. "All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection", In ACL 2026 [Download](https://arxiv.org/abs/2601.04160)
+
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In NeurlPS 2024. [Download](https://arxiv.org/abs/2403.17141)
 
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". In EMNLP 2025. [Download](https://arxiv.org/abs/2406.11093)
 
+- Xueqing Peng et al. "MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation". In ACL 2026 [Download](https://arxiv.org/abs/2506.14028)
+
+
 - Qianqian Xie et al. "The FinBen: An Holistic Financial Benchmark for Large Language Models". In NeurlPS 2024 Dataset track. [Download](https://arxiv.org/abs/2402.12659)
+
 
 
 Journal Papers
