@@ -12,6 +12,8 @@ You can also find my articles on my [Google profile](https://scholar.google.com/
 Preprint
 ======
 
+- **Zhiwei Liu**, Yangyang Yu, Yupeng Cao, Yuechen Jiang, Haohang Li, Zhuoran Lu, Yuyan Wang et al. "AutoRedTrader: Autonomous Red Teaming of Trading Agents through Synthetic Misinformation Injection." arXiv preprint arXiv:2605.09185 (2026).
+
 - **Zhiwei Liu**, Runteng Guo, Baojie Qu, Yuechen Jiang, Min Peng, Qianqian Xie, Sophia Ananiadou. "RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection
 " [Download](https://arxiv.org/abs/2601.04853)
 
@@ -47,7 +49,7 @@ Conference Papers
 
 - Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In NeurlPS 2024. [Download](https://arxiv.org/abs/2403.17141)
 
-- Kailai Yang, **Zhiwei Liu**, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". In EMNLP 2025. [Download](https://arxiv.org/abs/2406.11093)
+- Kailai Yang, **Zhiwei Liu** (Corresponding author), Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". In EMNLP 2025. [Download](https://arxiv.org/abs/2406.11093)
 
 - Xueqing Peng et al. "MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation". In ACL 2026 [Download](https://arxiv.org/abs/2506.14028)
 
