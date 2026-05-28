@@ -33,6 +33,8 @@ Conference Papers
 
 - **Zhiwei Liu**, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, and Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information". In ACL 2025 [Download](https://arxiv.org/abs/2406.11093)
 
+- **Zhiwei Liu**, Yuyan Wang, Yuechen Jiang, Yupeng Cao, Tianlei Zhu, Xiaorui Guo, Zhiyang Deng et al. "MFMDQwen: Multilingual Financial Misinformation Detection Based on Large Language Model." MeLLM @ ACL 2026.
+
 - **Zhiwei Liu**, Xin Zhang, Kailai Yang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "FMDLlama: Financial Misinformation Detection based on Large Language Models." In WWW 2025 [Download](https://arxiv.org/abs/2409.16452)
 
 - **Zhiwei Liu**, Paul Thompson, Jiaqi Rong, Sophia Ananiadou. "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories." In ECAI 2025 [Download](https://arxiv.org/abs/2505.14917)
