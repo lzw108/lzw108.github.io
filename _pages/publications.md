@@ -12,7 +12,9 @@ You can also find my articles on my [Google profile](https://scholar.google.com/
 Preprint
 ======
 
-- **Zhiwei Liu**, Yangyang Yu, Yupeng Cao, Yuechen Jiang, Haohang Li, Zhuoran Lu, Yuyan Wang et al. "AutoRedTrader: Autonomous Red Teaming of Trading Agents through Synthetic Misinformation Injection." arXiv preprint arXiv:2605.09185 (2026).
+- **Zhiwei Liu**, Yangyang Yu, Yupeng Cao, Yuechen Jiang, Haohang Li, Zhuoran Lu, Yuyan Wang et al. "AutoRedTrader: Autonomous Red Teaming of Trading Agents through Synthetic Misinformation Injection." [Download](https://arxiv.org/abs/2605.09185)
+
+- **Zhiwei Liu**, Yueru He, Qing Ou, Tianlei Zhu, Xiaorui Guo, Xueqing Peng, and Sophia Ananiadou. "AuditFraudBench: Benchmarking Audit Judgment in Detecting Fraudulent Misstatements." [Download](https://arxiv.org/abs/2606.08345)
 
 - **Zhiwei Liu**, Runteng Guo, Baojie Qu, Yuechen Jiang, Min Peng, Qianqian Xie, Sophia Ananiadou. "RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection
 " [Download](https://arxiv.org/abs/2601.04853)
