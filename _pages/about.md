@@ -23,7 +23,7 @@ If you like teamwork and are interested in finance, misinformation detection, re
 
 News
 ======
-- **Jun 2026.** New preprints: two papers related to misinformation detection are now available online ([AutoRedTrader](https://arxiv.org/abs/2605.09185), [AuditFraudBench](https://arxiv.org/abs/2606.08345),
+- **Jun 2026.** New preprints: two papers related to financial misinformation detection are now available online ([AutoRedTrader](https://arxiv.org/abs/2605.09185), [AuditFraudBench](https://arxiv.org/abs/2606.08345),
 - **Apr 2026.**  Three papers have been accepted by ACL 2026 (Two Main and one Findings).
 - **Feb 2025.** I’m co-organizing [The 2nd Workshop on Misinformation Detection in the Era of LLMs (MisD)](https://sites.google.com/view/misd-2026/), which will be held at ICWSM (May 26, 2026,  Los Angeles, CA)!
 - **Jan 2026.** New preprints: four papers related to misinformation detection are now available online ([MFMDScen](https://arxiv.org/abs/2601.05403), [RFCBENCH](https://arxiv.org/abs/2601.04160), [RAAR](https://arxiv.org/abs/2601.04853), [MisSpans](https://arxiv.org/abs/2601.04857)).
